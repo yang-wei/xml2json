@@ -1,0 +1,1005 @@
+[{
+    "name": "Afghanistan",
+    "currency": "AFN",
+    "capital": "Kabul"
+},{
+    "name": "Åland Islands",
+    "currency": "EUR",
+    "capital": "Mariehamn"
+},{
+    "name": "Albania",
+    "currency": "ALL",
+    "capital": "Tirana"
+},{
+    "name": "Algeria",
+    "currency": "DZD",
+    "capital": "Algiers"
+},{
+    "name": "American Samoa",
+    "currency": "USD",
+    "capital": "Pago Pago"
+},{
+    "name": "Andorra",
+    "currency": "EUR",
+    "capital": "Andorra la Vella"
+},{
+    "name": "Angola",
+    "currency": "AOA",
+    "capital": "Luanda"
+},{
+    "name": "Anguilla",
+    "currency": "XCD",
+    "capital": "The Valley"
+},{
+    "name": "Antarctica",
+    "currency": "",
+    "capital": ""
+},{
+    "name": "Antigua and Barbuda",
+    "currency": "XCD",
+    "capital": "Saint John's"
+},{
+    "name": "Argentina",
+    "currency": "ARS",
+    "capital": "Buenos Aires"
+},{
+    "name": "Armenia",
+    "currency": "AMD",
+    "capital": "Yerevan"
+},{
+    "name": "Aruba",
+    "currency": "AWG",
+    "capital": "Oranjestad"
+},{
+    "name": "Ascension Island",
+    "currency": "SHP",
+    "capital": "Georgetown"
+},{
+    "name": "Australia",
+    "currency": "AUD",
+    "capital": "Canberra"
+},{
+    "name": "Austria",
+    "currency": "EUR",
+    "capital": "Vienna"
+},{
+    "name": "Azerbaijan",
+    "currency": "AZN",
+    "capital": "Baku"
+},{
+    "name": "Bahamas",
+    "currency": "BSD",
+    "capital": "Nassau"
+},{
+    "name": "Bahrain",
+    "currency": "BHD",
+    "capital": "Manama"
+},{
+    "name": "Bangladesh",
+    "currency": "BDT",
+    "capital": "Dhaka"
+},{
+    "name": "Barbados",
+    "currency": "BBD",
+    "capital": "Bridgetown"
+},{
+    "name": "Belarus",
+    "currency": "BYR",
+    "capital": "Minsk"
+},{
+    "name": "Belgium",
+    "currency": "EUR",
+    "capital": "Brussels"
+},{
+    "name": "Belize",
+    "currency": "BZD",
+    "capital": "Belmopan"
+},{
+    "name": "Benin",
+    "currency": "XOF",
+    "capital": "Porto-Novo"
+},{
+    "name": "Bermuda",
+    "currency": "BMD",
+    "capital": "Hamilton"
+},{
+    "name": "Bhutan",
+    "currency": "BTN,INR",
+    "capital": "Thimphu"
+},{
+    "name": "Bolivia",
+    "currency": "BOB,BOV",
+    "capital": "Sucre"
+},{
+    "name": "Bonaire",
+    "currency": "USD",
+    "capital": "Kralendijk"
+},{
+    "name": "Bosnia and Herzegovina",
+    "currency": "BAM",
+    "capital": "Sarajevo"
+},{
+    "name": "Botswana",
+    "currency": "BWP",
+    "capital": "Gaborone"
+},{
+    "name": "Bouvet Island",
+    "currency": "NOK",
+    "capital": ""
+},{
+    "name": "Brazil",
+    "currency": "BRL",
+    "capital": "Brasília"
+},{
+    "name": "British Indian Ocean Territory",
+    "currency": "USD",
+    "capital": "Diego Garcia"
+},{
+    "name": "British Virgin Islands",
+    "currency": "USD",
+    "capital": "Road Town"
+},{
+    "name": "Brunei",
+    "currency": "BND",
+    "capital": "Bandar Seri Begawan"
+},{
+    "name": "Bulgaria",
+    "currency": "BGN",
+    "capital": "Sofia"
+},{
+    "name": "Burkina Faso",
+    "currency": "XOF",
+    "capital": "Ouagadougou"
+},{
+    "name": "Burundi",
+    "currency": "BIF",
+    "capital": "Bujumbura"
+},{
+    "name": "Cambodia",
+    "currency": "KHR",
+    "capital": "Phnom Penh"
+},{
+    "name": "Cameroon",
+    "currency": "XAF",
+    "capital": "Yaoundé"
+},{
+    "name": "Canada",
+    "currency": "CAD",
+    "capital": "Ottawa"
+},{
+    "name": "Cape Verde",
+    "currency": "CVE",
+    "capital": "Praia"
+},{
+    "name": "Cayman Islands",
+    "currency": "KYD",
+    "capital": "George Town"
+},{
+    "name": "Central African Republic",
+    "currency": "XAF",
+    "capital": "Bangui"
+},{
+    "name": "Chad",
+    "currency": "XAF",
+    "capital": "N'Djamena"
+},{
+    "name": "Chile",
+    "currency": "CLF,CLP",
+    "capital": "Santiago"
+},{
+    "name": "China",
+    "currency": "CNY",
+    "capital": "Beijing"
+},{
+    "name": "Christmas Island",
+    "currency": "AUD",
+    "capital": "Flying Fish Cove"
+},{
+    "name": "Cocos (Keeling) Islands",
+    "currency": "AUD",
+    "capital": "West Island"
+},{
+    "name": "Colombia",
+    "currency": "COP",
+    "capital": "Bogotá"
+},{
+    "name": "Comoros",
+    "currency": "KMF",
+    "capital": "Moroni"
+},{
+    "name": "Republic of the Congo",
+    "currency": "XAF",
+    "capital": "Brazzaville"
+},{
+    "name": "Democratic Republic of the Congo",
+    "currency": "CDF",
+    "capital": "Kinshasa"
+},{
+    "name": "Cook Islands",
+    "currency": "NZD",
+    "capital": "Avarua"
+},{
+    "name": "Costa Rica",
+    "currency": "CRC",
+    "capital": "San José"
+},{
+    "name": "Croatia",
+    "currency": "HRK",
+    "capital": "Zagreb"
+},{
+    "name": "Cuba",
+    "currency": "CUC,CUP",
+    "capital": "Havana"
+},{
+    "name": "Curaçao",
+    "currency": "ANG",
+    "capital": "Willemstad"
+},{
+    "name": "Cyprus",
+    "currency": "EUR",
+    "capital": "Nicosia"
+},{
+    "name": "Czech Republic",
+    "currency": "CZK",
+    "capital": "Prague"
+},{
+    "name": "Denmark",
+    "currency": "DKK",
+    "capital": "Copenhagen"
+},{
+    "name": "Djibouti",
+    "currency": "DJF",
+    "capital": "Djibouti"
+},{
+    "name": "Dominica",
+    "currency": "XCD",
+    "capital": "Roseau"
+},{
+    "name": "Dominican Republic",
+    "currency": "DOP",
+    "capital": "Santo Domingo"
+},{
+    "name": "Ecuador",
+    "currency": "USD",
+    "capital": "Quito"
+},{
+    "name": "Egypt",
+    "currency": "EGP",
+    "capital": "Cairo"
+},{
+    "name": "El Salvador",
+    "currency": "SVC,USD",
+    "capital": "San Salvador"
+},{
+    "name": "Equatorial Guinea",
+    "currency": "XAF",
+    "capital": "Malabo"
+},{
+    "name": "Eritrea",
+    "currency": "ERN",
+    "capital": "Asmara"
+},{
+    "name": "Estonia",
+    "currency": "EUR",
+    "capital": "Tallinn"
+},{
+    "name": "Ethiopia",
+    "currency": "ETB",
+    "capital": "Addis Ababa"
+},{
+    "name": "Falkland Islands",
+    "currency": "FKP",
+    "capital": "Stanley"
+},{
+    "name": "Faroe Islands",
+    "currency": "DKK",
+    "capital": "Tórshavn"
+},{
+    "name": "Fiji",
+    "currency": "FJD",
+    "capital": "Suva"
+},{
+    "name": "Finland",
+    "currency": "EUR",
+    "capital": "Helsinki"
+},{
+    "name": "France",
+    "currency": "EUR",
+    "capital": "Paris"
+},{
+    "name": "French Guiana",
+    "currency": "EUR",
+    "capital": "Cayenne"
+},{
+    "name": "French Polynesia",
+    "currency": "XPF",
+    "capital": "Papeetē"
+},{
+    "name": "French Southern and Antarctic Lands",
+    "currency": "EUR",
+    "capital": "Port-aux-Français"
+},{
+    "name": "Gabon",
+    "currency": "XAF",
+    "capital": "Libreville"
+},{
+    "name": "Gambia",
+    "currency": "GMD",
+    "capital": "Banjul"
+},{
+    "name": "Georgia",
+    "currency": "GEL",
+    "capital": "Tbilisi"
+},{
+    "name": "Germany",
+    "currency": "EUR",
+    "capital": "Berlin"
+},{
+    "name": "Ghana",
+    "currency": "GHS",
+    "capital": "Accra"
+},{
+    "name": "Gibraltar",
+    "currency": "GIP",
+    "capital": "Gibraltar"
+},{
+    "name": "Greece",
+    "currency": "EUR",
+    "capital": "Athens"
+},{
+    "name": "Greenland",
+    "currency": "DKK",
+    "capital": "Nuuk"
+},{
+    "name": "Grenada",
+    "currency": "XCD",
+    "capital": "St. George's"
+},{
+    "name": "Guadeloupe",
+    "currency": "EUR",
+    "capital": "Basse-Terre"
+},{
+    "name": "Guam",
+    "currency": "USD",
+    "capital": "Hagåtña"
+},{
+    "name": "Guatemala",
+    "currency": "GTQ",
+    "capital": "Guatemala City"
+},{
+    "name": "Guernsey",
+    "currency": "GBP",
+    "capital": "St. Peter Port"
+},{
+    "name": "Guinea",
+    "currency": "GNF",
+    "capital": "Conakry"
+},{
+    "name": "Guinea-Bissau",
+    "currency": "XOF",
+    "capital": "Bissau"
+},{
+    "name": "Guyana",
+    "currency": "GYD",
+    "capital": "Georgetown"
+},{
+    "name": "Haiti",
+    "currency": "HTG,USD",
+    "capital": "Port-au-Prince"
+},{
+    "name": "Heard Island and McDonald Islands",
+    "currency": "AUD",
+    "capital": ""
+},{
+    "name": "Vatican City",
+    "currency": "EUR",
+    "capital": "Vatican City"
+},{
+    "name": "Honduras",
+    "currency": "HNL",
+    "capital": "Tegucigalpa"
+},{
+    "name": "Hong Kong",
+    "currency": "HKD",
+    "capital": "City of Victoria"
+},{
+    "name": "Hungary",
+    "currency": "HUF",
+    "capital": "Budapest"
+},{
+    "name": "Iceland",
+    "currency": "ISK",
+    "capital": "Reykjavik"
+},{
+    "name": "India",
+    "currency": "INR",
+    "capital": "New Delhi"
+},{
+    "name": "Indonesia",
+    "currency": "IDR",
+    "capital": "Jakarta"
+},{
+    "name": "Ivory Coast",
+    "currency": "XOF",
+    "capital": "Yamoussoukro"
+},{
+    "name": "Iran",
+    "currency": "IRR",
+    "capital": "Tehran"
+},{
+    "name": "Iraq",
+    "currency": "IQD",
+    "capital": "Baghdad"
+},{
+    "name": "Ireland",
+    "currency": "EUR",
+    "capital": "Dublin"
+},{
+    "name": "Isle of Man",
+    "currency": "GBP",
+    "capital": "Douglas"
+},{
+    "name": "Israel",
+    "currency": "ILS",
+    "capital": "Jerusalem"
+},{
+    "name": "Italy",
+    "currency": "EUR",
+    "capital": "Rome"
+},{
+    "name": "Jamaica",
+    "currency": "JMD",
+    "capital": "Kingston"
+},{
+    "name": "Japan",
+    "currency": "JPY",
+    "capital": "Tokyo"
+},{
+    "name": "Jersey",
+    "currency": "GBP",
+    "capital": "Saint Helier"
+},{
+    "name": "Jordan",
+    "currency": "JOD",
+    "capital": "Amman"
+},{
+    "name": "Kazakhstan",
+    "currency": "KZT",
+    "capital": "Astana"
+},{
+    "name": "Kenya",
+    "currency": "KES",
+    "capital": "Nairobi"
+},{
+    "name": "Kiribati",
+    "currency": "AUD",
+    "capital": "South Tarawa"
+},{
+    "name": "Kuwait",
+    "currency": "KWD",
+    "capital": "Kuwait City"
+},{
+    "name": "Kyrgyzstan",
+    "currency": "KGS",
+    "capital": "Bishkek"
+},{
+    "name": "Laos",
+    "currency": "LAK",
+    "capital": "Vientiane"
+},{
+    "name": "Latvia",
+    "currency": "EUR",
+    "capital": "Riga"
+},{
+    "name": "Lebanon",
+    "currency": "LBP",
+    "capital": "Beirut"
+},{
+    "name": "Lesotho",
+    "currency": "LSL,ZAR",
+    "capital": "Maseru"
+},{
+    "name": "Liberia",
+    "currency": "LRD",
+    "capital": "Monrovia"
+},{
+    "name": "Libya",
+    "currency": "LYD",
+    "capital": "Tripoli"
+},{
+    "name": "Liechtenstein",
+    "currency": "CHF",
+    "capital": "Vaduz"
+},{
+    "name": "Lithuania",
+    "currency": "LTL",
+    "capital": "Vilnius"
+},{
+    "name": "Luxembourg",
+    "currency": "EUR",
+    "capital": "Luxembourg"
+},{
+    "name": "Macau",
+    "currency": "MOP",
+    "capital": ""
+},{
+    "name": "Macedonia",
+    "currency": "MKD",
+    "capital": "Skopje"
+},{
+    "name": "Madagascar",
+    "currency": "MGA",
+    "capital": "Antananarivo"
+},{
+    "name": "Malawi",
+    "currency": "MWK",
+    "capital": "Lilongwe"
+},{
+    "name": "Malaysia",
+    "currency": "MYR",
+    "capital": "Kuala Lumpur"
+},{
+    "name": "Maldives",
+    "currency": "MVR",
+    "capital": "Malé"
+},{
+    "name": "Mali",
+    "currency": "XOF",
+    "capital": "Bamako"
+},{
+    "name": "Malta",
+    "currency": "EUR",
+    "capital": "Valletta"
+},{
+    "name": "Marshall Islands",
+    "currency": "USD",
+    "capital": "Majuro"
+},{
+    "name": "Martinique",
+    "currency": "EUR",
+    "capital": "Fort-de-France"
+},{
+    "name": "Mauritania",
+    "currency": "MRO",
+    "capital": "Nouakchott"
+},{
+    "name": "Mauritius",
+    "currency": "MUR",
+    "capital": "Port Louis"
+},{
+    "name": "Mayotte",
+    "currency": "EUR",
+    "capital": "Mamoudzou"
+},{
+    "name": "Mexico",
+    "currency": "MXN",
+    "capital": "Mexico City"
+},{
+    "name": "Micronesia",
+    "currency": "USD",
+    "capital": "Palikir"
+},{
+    "name": "Moldova",
+    "currency": "MDL",
+    "capital": "Chișinău"
+},{
+    "name": "Monaco",
+    "currency": "EUR",
+    "capital": "Monaco"
+},{
+    "name": "Mongolia",
+    "currency": "MNT",
+    "capital": "Ulan Bator"
+},{
+    "name": "Montenegro",
+    "currency": "EUR",
+    "capital": "Podgorica"
+},{
+    "name": "Montserrat",
+    "currency": "XCD",
+    "capital": "Plymouth"
+},{
+    "name": "Morocco",
+    "currency": "MAD",
+    "capital": "Rabat"
+},{
+    "name": "Mozambique",
+    "currency": "MZN",
+    "capital": "Maputo"
+},{
+    "name": "Myanmar",
+    "currency": "MMK",
+    "capital": "Naypyidaw"
+},{
+    "name": "Namibia",
+    "currency": "NAD,ZAR",
+    "capital": "Windhoek"
+},{
+    "name": "Nauru",
+    "currency": "AUD",
+    "capital": "Yaren"
+},{
+    "name": "Nepal",
+    "currency": "NPR",
+    "capital": "Kathmandu"
+},{
+    "name": "Netherlands",
+    "currency": "EUR",
+    "capital": "Amsterdam"
+},{
+    "name": "New Caledonia",
+    "currency": "XPF",
+    "capital": "Nouméa"
+},{
+    "name": "New Zealand",
+    "currency": "NZD",
+    "capital": "Wellington"
+},{
+    "name": "Nicaragua",
+    "currency": "NIO",
+    "capital": "Managua"
+},{
+    "name": "Niger",
+    "currency": "XOF",
+    "capital": "Niamey"
+},{
+    "name": "Nigeria",
+    "currency": "NGN",
+    "capital": "Abuja"
+},{
+    "name": "Niue",
+    "currency": "NZD",
+    "capital": "Alofi"
+},{
+    "name": "Norfolk Island",
+    "currency": "AUD",
+    "capital": "Kingston"
+},{
+    "name": "North Korea",
+    "currency": "KPW",
+    "capital": "Pyongyang"
+},{
+    "name": "Northern Mariana Islands",
+    "currency": "USD",
+    "capital": "Saipan"
+},{
+    "name": "Norway",
+    "currency": "NOK",
+    "capital": "Oslo"
+},{
+    "name": "Oman",
+    "currency": "OMR",
+    "capital": "Muscat"
+},{
+    "name": "Pakistan",
+    "currency": "PKR",
+    "capital": "Islamabad"
+},{
+    "name": "Palau",
+    "currency": "USD",
+    "capital": "Ngerulmud"
+},{
+    "name": "Palestine",
+    "currency": "ILS",
+    "capital": "Ramallah"
+},{
+    "name": "Panama",
+    "currency": "PAB,USD",
+    "capital": "Panama City"
+},{
+    "name": "Papua New Guinea",
+    "currency": "PGK",
+    "capital": "Port Moresby"
+},{
+    "name": "Paraguay",
+    "currency": "PYG",
+    "capital": "Asunción"
+},{
+    "name": "Peru",
+    "currency": "PEN",
+    "capital": "Lima"
+},{
+    "name": "Philippines",
+    "currency": "PHP",
+    "capital": "Manila"
+},{
+    "name": "Pitcairn Islands",
+    "currency": "NZD",
+    "capital": "Adamstown"
+},{
+    "name": "Poland",
+    "currency": "PLN",
+    "capital": "Warsaw"
+},{
+    "name": "Portugal",
+    "currency": "EUR",
+    "capital": "Lisbon"
+},{
+    "name": "Puerto Rico",
+    "currency": "USD",
+    "capital": "San Juan"
+},{
+    "name": "Qatar",
+    "currency": "QAR",
+    "capital": "Doha"
+},{
+    "name": "Republic of Kosovo",
+    "currency": "EUR",
+    "capital": "Pristina"
+},{
+    "name": "Réunion",
+    "currency": "EUR",
+    "capital": "Saint-Denis"
+},{
+    "name": "Romania",
+    "currency": "RON",
+    "capital": "Bucharest"
+},{
+    "name": "Russia",
+    "currency": "RUB",
+    "capital": "Moscow"
+},{
+    "name": "Rwanda",
+    "currency": "RWF",
+    "capital": "Kigali"
+},{
+    "name": "Saint Barthélemy",
+    "currency": "EUR",
+    "capital": "Gustavia"
+},{
+    "name": "Saint Helena",
+    "currency": "SHP",
+    "capital": "Jamestown"
+},{
+    "name": "Saint Kitts and Nevis",
+    "currency": "XCD",
+    "capital": "Basseterre"
+},{
+    "name": "Saint Lucia",
+    "currency": "XCD",
+    "capital": "Castries"
+},{
+    "name": "Saint Martin",
+    "currency": "EUR",
+    "capital": "Marigot"
+},{
+    "name": "Saint Pierre and Miquelon",
+    "currency": "EUR",
+    "capital": "Saint-Pierre"
+},{
+    "name": "Saint Vincent and the Grenadines",
+    "currency": "XCD",
+    "capital": "Kingstown"
+},{
+    "name": "Samoa",
+    "currency": "WST",
+    "capital": "Apia"
+},{
+    "name": "San Marino",
+    "currency": "EUR",
+    "capital": "City of San Marino"
+},{
+    "name": "São Tomé and Príncipe",
+    "currency": "STD",
+    "capital": "São Tomé"
+},{
+    "name": "Saudi Arabia",
+    "currency": "SAR",
+    "capital": "Riyadh"
+},{
+    "name": "Senegal",
+    "currency": "XOF",
+    "capital": "Dakar"
+},{
+    "name": "Serbia",
+    "currency": "RSD",
+    "capital": "Belgrade"
+},{
+    "name": "Seychelles",
+    "currency": "SCR",
+    "capital": "Victoria"
+},{
+    "name": "Sierra Leone",
+    "currency": "SLL",
+    "capital": "Freetown"
+},{
+    "name": "Singapore",
+    "currency": "SGD",
+    "capital": "Singapore"
+},{
+    "name": "Sint Maarten",
+    "currency": "ANG",
+    "capital": "Philipsburg"
+},{
+    "name": "Slovakia",
+    "currency": "EUR",
+    "capital": "Bratislava"
+},{
+    "name": "Slovenia",
+    "currency": "EUR",
+    "capital": "Ljubljana"
+},{
+    "name": "Solomon Islands",
+    "currency": "SDB",
+    "capital": "Honiara"
+},{
+    "name": "Somalia",
+    "currency": "SOS",
+    "capital": "Mogadishu"
+},{
+    "name": "South Africa",
+    "currency": "ZAR",
+    "capital": "Pretoria"
+},{
+    "name": "South Georgia",
+    "currency": "GBP",
+    "capital": "King Edward Point"
+},{
+    "name": "South Korea",
+    "currency": "KRW",
+    "capital": "Seoul"
+},{
+    "name": "South Sudan",
+    "currency": "SSP",
+    "capital": "Juba"
+},{
+    "name": "Spain",
+    "currency": "EUR",
+    "capital": "Madrid"
+},{
+    "name": "Sri Lanka",
+    "currency": "LKR",
+    "capital": "Colombo"
+},{
+    "name": "Sudan",
+    "currency": "SDG",
+    "capital": "Khartoum"
+},{
+    "name": "Suriname",
+    "currency": "SRD",
+    "capital": "Paramaribo"
+},{
+    "name": "Svalbard and Jan Mayen",
+    "currency": "NOK",
+    "capital": "Longyearbyen"
+},{
+    "name": "Swaziland",
+    "currency": "SZL",
+    "capital": "Lobamba"
+},{
+    "name": "Sweden",
+    "currency": "SEK",
+    "capital": "Stockholm"
+},{
+    "name": "Switzerland",
+    "currency": "CHE,CHF,CHW",
+    "capital": "Bern"
+},{
+    "name": "Syria",
+    "currency": "SYP",
+    "capital": "Damascus"
+},{
+    "name": "Taiwan",
+    "currency": "TWD",
+    "capital": "Taipei"
+},{
+    "name": "Tajikistan",
+    "currency": "TJS",
+    "capital": "Dushanbe"
+},{
+    "name": "Tanzania",
+    "currency": "TZS",
+    "capital": "Dodoma"
+},{
+    "name": "Thailand",
+    "currency": "THB",
+    "capital": "Bangkok"
+},{
+    "name": "Timor-Leste",
+    "currency": "USD",
+    "capital": "Dili"
+},{
+    "name": "Togo",
+    "currency": "XOF",
+    "capital": "Lomé"
+},{
+    "name": "Tokelau",
+    "currency": "NZD",
+    "capital": "Fakaofo"
+},{
+    "name": "Tonga",
+    "currency": "TOP",
+    "capital": "Nuku'alofa"
+},{
+    "name": "Trinidad and Tobago",
+    "currency": "TTD",
+    "capital": "Port of Spain"
+},{
+    "name": "Tunisia",
+    "currency": "TND",
+    "capital": "Tunis"
+},{
+    "name": "Turkey",
+    "currency": "TRY",
+    "capital": "Ankara"
+},{
+    "name": "Turkmenistan",
+    "currency": "TMT",
+    "capital": "Ashgabat"
+},{
+    "name": "Turks and Caicos Islands",
+    "currency": "USD",
+    "capital": "Cockburn Town"
+},{
+    "name": "Tuvalu",
+    "currency": "AUD",
+    "capital": "Funafuti"
+},{
+    "name": "Uganda",
+    "currency": "UGX",
+    "capital": "Kampala"
+},{
+    "name": "Ukraine",
+    "currency": "UAH",
+    "capital": "Kiev"
+},{
+    "name": "United Arab Emirates",
+    "currency": "AED",
+    "capital": "Abu Dhabi"
+},{
+    "name": "United Kingdom",
+    "currency": "GBP",
+    "capital": "London"
+},{
+    "name": "United States",
+    "currency": "USD,USN,USS",
+    "capital": "Washington D.C."
+},{
+    "name": "United States Minor Outlying Islands",
+    "currency": "USD",
+    "capital": ""
+},{
+    "name": "United States Virgin Islands",
+    "currency": "USD",
+    "capital": "Charlotte Amalie"
+},{
+    "name": "Uruguay",
+    "currency": "UYI,UYU",
+    "capital": "Montevideo"
+},{
+    "name": "Uzbekistan",
+    "currency": "UZS",
+    "capital": "Tashkent"
+},{
+    "name": "Vanuatu",
+    "currency": "VUV",
+    "capital": "Port Vila"
+},{
+    "name": "Venezuela",
+    "currency": "VEF",
+    "capital": "Caracas"
+},{
+    "name": "Vietnam",
+    "currency": "VND",
+    "capital": "Hanoi"
+},{
+    "name": "Wallis and Futuna",
+    "currency": "XPF",
+    "capital": "Mata-Utu"
+},{
+    "name": "Western Sahara",
+    "currency": "MAD,DZD,MRO",
+    "capital": "El Aaiún"
+},{
+    "name": "Yemen",
+    "currency": "YER",
+    "capital": "Sana'a"
+},{
+    "name": "Zambia",
+    "currency": "ZMK",
+    "capital": "Lusaka"
+},{
+    "name": "Zimbabwe",
+    "currency": "ZWL",
+    "capital": "Harare"
+}]
